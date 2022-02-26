@@ -29,3 +29,8 @@ https://www.tecmint.com/open-source-api-gateways-and-management-tools/
 | 8  | Amazon API Gateway   | cloud services | да                                                              | да                                                            | да                           | focuses on features geared toward resiliency and lifecycle management                                                                                                                                            |                                                     |                                  |
 | 9  | Oracle API Gateway   | cloud services | да                                                              | да                                                            | да                           | policy enforcement, metrics and logging                                                                                                                                                                          |                                                     |                                  |
 | 10 | Sber API Gateway     | cloud services | да                                                              | да                                                            | да                           | Усовершенствованный мониторинг                                                                                                                                                                                   |                                                     |                                  |
+
+
+
+
+AAA
