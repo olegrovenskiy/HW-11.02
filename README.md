@@ -11,7 +11,9 @@
 Обоснуйте свой выбор.
 
 https://geekflare.com/api-gateway/
+
 https://medium.com/young-app-platform/top-10-api-gateways-for-api-management-to-try-in-2020-2488d03c0952
+
 https://www.tecmint.com/open-source-api-gateways-and-management-tools/
 
 
